@@ -89,7 +89,7 @@ html body{
 }
 
 #aboutUs{
-    background-image: url("/images/settings/setting8.jpg");
+    background-image: url("images/settings/setting8.jpg");
     color:white;
     margin-bottom: 5px;
     min-height: 500px;
@@ -181,7 +181,7 @@ li{
 }
 
 #follow{
-    background-image: url("/images/settings/setting6.jpg");
+    background-image: url("images/settings/setting6.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
